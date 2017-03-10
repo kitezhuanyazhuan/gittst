@@ -1,0 +1,22 @@
+# Eclipse
+.settings/
+target/
+.classpath
+.project
+*.log
+*.log.*
+
+# vim
+*.swp
+
+# Mac crap
+.DS_Store
+.idea/
+*.iml
+
+# auto created file of build
+*/lib/*
+*/MybatisTool*.java
+*/test/*
+*application.properties
+log4j2.yml
