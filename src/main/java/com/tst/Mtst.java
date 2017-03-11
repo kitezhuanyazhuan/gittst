@@ -3,6 +3,8 @@
  */
 package com.tst;
 
+import java.util.Collection;
+
 /**
  *
  * @author <a href="mailto:2881090362@qq.com">戴爽</a>
@@ -13,6 +15,12 @@ public class Mtst {
 
     public static void main(String[] args) {
 
+        /**
+         * java.util.Collection;
+         * list
+         * set
+         * queuq
+         */
         System.out.println("hello workd");
     }
 }
