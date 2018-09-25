@@ -21,8 +21,6 @@ public class Mtst {
          * set
          * queuq
          */
-        System.out.println("111111");
-        System.out.println("hello workd");
         System.out.println("hello workd");
     }
 }
