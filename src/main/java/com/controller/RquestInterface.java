@@ -11,4 +11,5 @@ package com.controller;
  */
 public interface RquestInterface {
     String handleRequest(String string);
+    String handleRequest1(String string);
 }
